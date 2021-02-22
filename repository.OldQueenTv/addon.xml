@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.OldQueenTv" name="OldQueenTv Repo" version="2.0.0" provider-name="DaQueenQueen Y JaviR">
+<addon id="repository.OldQueenTv" name="OldQueenTv Repo" version="2.1.0" provider-name="DaQueenQueen Y JaviR">
     <extension point="xbmc.addon.repository" name="OldQueenTv Repo">
         <info compressed="false">https://raw.githubusercontent.com/mendelux/repositorio-OldQueenTv/master/_repo/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/mendelux/repositorio-OldQueenTv/master/_repo/addons.xml.md5</checksum>
