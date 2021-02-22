@@ -16,9 +16,9 @@
   </extension>
   
   <extension point="xbmc.addon.repository" name="Repositorio OldQueenTv">
-        <info compressed="false">https://raw.githubusercontent.com/jacksxxx/OldeQueenTv/master/_repo/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/jacksxxx/OldeQueenTv/master/_repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/jacksxxx/OldQueenTv/master/_repo/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/mendelux/repositorio-OldQueenTv/master/addons.xm</info>
+        <checksum>https://raw.githubusercontent.com/mendelux/repositorio-OldQueenTv/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/mendelux/repositorio-OldQueenTv/master</datadir>
     </extension>
 
   <extension point="xbmc.addon.metadata">
